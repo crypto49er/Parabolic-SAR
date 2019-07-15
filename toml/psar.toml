@@ -1,0 +1,3 @@
+optInAcceleration = 0.02
+optInMaximum = 0.2
+optInStart = 0.02

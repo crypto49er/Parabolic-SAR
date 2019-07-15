@@ -1,0 +1,8 @@
+optInAcceleration = 0.02
+optInMaximum = 0.2
+optInStart = 0.02
+
+[ADX]
+adx = 11
+high = 75
+low = 27
